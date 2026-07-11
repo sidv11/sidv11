@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=39ff14&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sidv11&label=Profile%20Views&color=39ff14&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bugs%20Fixed-1-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/New%20Bugs%20Created-47-critical?style=for-the-badge" />
