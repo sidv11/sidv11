@@ -69,14 +69,14 @@ Currently teaching machines to predict things I can't predict about my own life
 
 ---
 
-## 🧪 Featured Chaos
+## 🎭 Corporate Buzzwords I Accidentally Made Real
 
-| Project | What It Actually Does | What The README Claims |
+| Project | LinkedIn Description | Honest Description |
 |---|---|---|
-| **RetainIQ** | Predicts if employees will quit, using SMOTE, LightGBM & an LLM copilot | "Enterprise-grade retention intelligence platform" |
-| **Random Frontend Site #47** | A luxury real estate site nobody in Dubai will ever see | "Award-worthy immersive digital experience" |
-| **MindGuard** (WIP) | Detects burnout via behavioral signals, mostly detects my own | "AI-powered wellness infrastructure" |
-
+| **RetainIQ** | AI-driven workforce retention ecosystem | Makes educated guesses about who rage-quits first. |
+| **Telecom Churn** | Predictive customer analytics platform | Predicts breakups... but for SIM cards. |
+| **Twitter Sentiment** | State-of-the-art NLP solution | A robot that judges tweets for a living. |
+| **GenAI BI** *(WIP)* | Conversational business intelligence platform | ChatGPT wearing a business suit and carrying Excel sheets. |
 ---
 
 ## 🐛 A Brief, Honest History of My Debugging Process
