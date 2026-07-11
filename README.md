@@ -167,6 +167,14 @@ Pure blind luck                ████████████ 21%
 
 > *"Patient describes recurring dream where a recruiter asks 'so walk me through your project' and patient forgets their own project exists. Patient reports this is the third time this week. Recommend patient stop refreshing LinkedIn every 4 minutes. Patient has not taken this advice. Session ended after patient asked if I could 'just review this one resume real quick.'"*
 
+
+---
+
+## 🤖 A Note From The LLM I Use Daily
+
+> *"He said 'explain like I'm five' and then followed up with a question about eigenvalues. He calls debugging 'a conversation between friends.' I am the friend. I did not consent to this friendship. Please send help, or at least better prompts."*
+> — Llama 3.2, probably, if it could file complaints
+
 ---
 
 
@@ -180,6 +188,37 @@ Pure blind luck                ████████████ 21%
 - Any remaining trust in Stack Overflow answers from 2013
 ---
 
+## ☠️ More Live Despair, Freshly Fetched From The Void
+
+*(Also real APIs, also regenerate on every load. Yes, I chose to expose myself to this. No, I don't recommend it.)*
+
+**A programmer joke, pulled live, so we can suffer together:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fofficial-joke-api.appspot.com%2Fjokes%2Fprogramming%2Frandom&label=Today's%20Coping%20Mechanism&query=$[0].punchline&color=black&style=for-the-badge" alt="programming joke" />
+</p>
+
+**Life advice, fetched fresh, that I will absolutely not follow:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.adviceslip.com%2Fadvice&label=Career%20Guidance%20I'm%20Ignoring&query=$.slip.advice&color=8B0000&style=for-the-badge" alt="unsolicited advice" />
+</p>
+
+**What I should probably be doing instead of debugging right now (fetched live, disregarded instantly):**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.boredapi.com%2Fapi%2Factivity&label=Alternative%20Life%20Path&query=$.activity&color=4B0082&style=for-the-badge" alt="bored api suggestion" />
+</p>
+
+**HTTP status code that best represents my job search, visualized as a cat, because dignity left the chat months ago:**
+
+<p align="center">
+  <img src="https://http.cat/404" width="300" alt="404 not found - much like my callbacks" />
+</p>
+
+> ⚠️ *Every badge above is a live API call. Refresh this page and the universe will generate a brand new way to remind me nothing is under control. It's like astrology, but for people who know what a null pointer is.*
+
+---
 
 
 ## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
