@@ -199,13 +199,13 @@ Pure blind luck                ████████████ 21%
 **My actual commit activity, visualized, so recruiters can see the 2 AM spike patterns for themselves:**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidv11&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 **Trophies I have "earned" (the algorithm is not impressed either):**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sidv11&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 > ⚠️ *If any of the above show up broken: that's not a bug, that's the universe agreeing with the insult API.*
