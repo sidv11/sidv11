@@ -171,6 +171,16 @@ Pure blind luck                ████████████ 21%
 
 
 
+## ⚰️ Things That Have Died For This Portfolio
+
+- My sleep schedule
+- 3 Chrome tabs' worth of RAM, permanently
+- The concept of a "weekend"
+- My belief that `requirements.txt` would ever just work on the first try
+- Any remaining trust in Stack Overflow answers from 2013
+---
+
+
 ## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
 
 <p align="center">
