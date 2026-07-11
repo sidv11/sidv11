@@ -86,6 +86,14 @@ Currently teaching machines to predict things I can't predict about my own life
   <img src="https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
 
+---
+
+## 📊 GitHub Activity (Looks Busier Than My Sleep Schedule)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidv11&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 ## 🐛 A Brief, Honest History of My Debugging Process
 
 ```mermaid
