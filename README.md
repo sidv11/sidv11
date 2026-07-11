@@ -78,6 +78,13 @@ Currently teaching machines to predict things I can't predict about my own life
 | **Twitter Sentiment** | State-of-the-art NLP solution | A robot that judges tweets for a living. |
 | **GenAI BI** *(WIP)* | Conversational business intelligence platform | ChatGPT wearing a business suit and carrying Excel sheets. |
 ---
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
 
 ## 🐛 A Brief, Honest History of My Debugging Process
 
