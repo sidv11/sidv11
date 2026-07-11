@@ -113,8 +113,23 @@ Panic-driven productivity      ████████████████�
 Copy-pasting Stack Overflow    ███████████████ 29%
 Actually understanding ML      ██████ 12%
 Pure blind luck                ████████████ 21%
-```
 
+---
+
+## 💔 My Relationship With Technology
+
+| Technology | Current Status |
+|---|---|
+| Python | It's complicated |
+| JavaScript | Mutual toxicity |
+| CSS | We don't talk anymore |
+| React | Friends with benefits |
+| Pandas | My emotional support library |
+| SQL | SELECT * FROM happiness; -- returned 0 rows |
+| Git | Constant trust issues |
+| Docker | "Works on my machine." Exactly. |
+| LightGBM | My favorite child |
+| TensorFlow | We broke up after dependency conflicts |
 ---
 
 ## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
