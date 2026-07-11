@@ -113,6 +113,7 @@ Panic-driven productivity      ████████████████�
 Copy-pasting Stack Overflow    ███████████████ 29%
 Actually understanding ML      ██████ 12%
 Pure blind luck                ████████████ 21%
+```
 
 ---
 
