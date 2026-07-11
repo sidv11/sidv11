@@ -162,6 +162,15 @@ Pure blind luck                ████████████ 21%
 ---
 
 
+
+## 🧠 Therapist's Notes (Confidential, Leaked)
+
+> *"Patient describes recurring dream where a recruiter asks 'so walk me through your project' and patient forgets their own project exists. Patient reports this is the third time this week. Recommend patient stop refreshing LinkedIn every 4 minutes. Patient has not taken this advice. Session ended after patient asked if I could 'just review this one resume real quick.'"*
+
+---
+
+
+
 ## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
 
 <p align="center">
