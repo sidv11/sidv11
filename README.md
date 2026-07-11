@@ -48,12 +48,12 @@ Currently teaching machines to predict things I can't predict about my own life
 ## 📈 GitHub Stats (Lies, Damned Lies, and Statistics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidv11&show_icons=true&theme=synthwave&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidv11&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sidv11&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidv11&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidv11&layout=compact&theme=synthwave&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidv11&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
