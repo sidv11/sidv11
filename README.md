@@ -49,7 +49,7 @@ Currently teaching machines to predict things I can't predict about my own life
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidv11&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidv11&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidv11&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -121,3 +121,5 @@ Pure blind luck                ████████████ 21%
 <p align="center">
   <i>⭐️ If you found this README funnier than my actual code, drop a star. My ego needs the SMOTE-style oversampling.</i>
 </p>
+
+
