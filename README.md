@@ -45,15 +45,26 @@ Currently teaching machines to predict things I can't predict about my own life
 
 ---
 
-## 📈 GitHub Stats (Lies, Damned Lies, and Statistics)
+## 📈 GitHub Stats (Self-Reported, Unaudited, Deeply Biased)
+
+> *Note: The official stats widget refused to load, so I'm reporting these numbers myself. No further questions.*
+
+| Metric | Value | Source |
+|---|---|---|
+| Lines of code written | 47,000+ | Me |
+| Lines of code actually needed | 12 | An auditor who will never exist |
+| Commits titled "fix" | 212 | git log |
+| Commits titled "actual fix" | 89 | git log |
+| Commits titled "actual fix for real this time" | 34 | git log, still lying |
+| Commits titled "please work" | 1 | 3:47 AM, deadline day |
+| Times I Googled something I already knew | Daily | My browser history, subpoenaed |
+| Times `git push --force` was "probably fine" | Every time | It was never fine |
+| ML models that achieved 99% accuracy | 1 | Turned out the target leaked into the features |
+| Contribution graph color | Green | Because red would be too honest |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidv11&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidv11&theme=synthwave&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidv11&layout=compact&hide_border=true" />
+  <img src="https://img.shields.io/badge/Rate%20Limit%20Excuses%20Given-9000%2B-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel%20Free%20Tier-Personally%20Offended-blueviolet?style=for-the-badge" />
 </p>
 
 ---
