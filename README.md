@@ -180,6 +180,37 @@ Pure blind luck                ████████████ 21%
 - Any remaining trust in Stack Overflow answers from 2013
 ---
 
+## 🔮 Live, Unfiltered, Algorithmically-Generated Judgment
+
+*(These are actually fetched live from real APIs every time someone loads this page. I take zero responsibility for what they say.)*
+
+**Random dev joke, regenerated fresh on every load, for your suffering:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fofficial-joke-api.appspot.com%2Frandom_joke&label=Punchline%20of%20the%20Day&query=$.punchline&color=brightgreen&style=for-the-badge" alt="random joke punchline" />
+</p>
+
+**An AI-generated insult, aimed directly at me, on a loop, forever:**
+
+<p align="center">
+  <img src="https://insult.mattbas.org/api/en/insult.svg?topic=random" alt="live generated insult" />
+</p>
+
+**My actual commit activity, visualized, so recruiters can see the 2 AM spike patterns for themselves:**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+**Trophies I have "earned" (the algorithm is not impressed either):**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+> ⚠️ *If any of the above show up broken: that's not a bug, that's the universe agreeing with the insult API.*
+
+---
 
 ## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
 
