@@ -159,6 +159,8 @@ Pure blind luck                ████████████ 21%
 | `my-own-chatgpt-clone` | Remembered OpenAI has more GPUs than my entire state | Hour 6 |
 | `perfect-resume.docx` | Died the moment ATS software touched it | On upload |
 | `weekend-project-idea-47` | Never had a chance. We hardly knew ye | Conception |
+---
+
 
 ## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
 
