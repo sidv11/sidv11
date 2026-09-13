@@ -27,22 +27,58 @@ I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to s
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=leaflet&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Data Science & Machine Learning
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=leaflet&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+
+### GenAI & LLM Applications
+
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+### Data Visualization & Databases
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+### Development & Tools
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidv11&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidv11&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidv11&theme=tokyonight"
+    alt="GitHub profile details"
+  />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=sidv11&label=Profile%20Views&color=39ff14&style=for-the-badge)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidv11&theme=tokyonight"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidv11&theme=tokyonight"
+    alt="Top repository languages"
+  />
+</p>
 
 ---
 
@@ -51,7 +87,6 @@ I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to s
 - Retrieval-Augmented Generation (RAG) — from-scratch and with LangChain
 - AI agents using the ReAct pattern
 - Production-facing ML: deployment, evaluation, and monitoring, not just model training
-- Currently 5 days into a 30-day structured GitHub build sprint across DA, ML, NLP, and GenAI
 
 ---
 
@@ -59,7 +94,6 @@ I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to s
 
 [![GitHub Contribution Snake](https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidv11&theme=tokyo-night&hide_border=true)
 
 ---
 
@@ -105,6 +139,6 @@ I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to s
 | My own cleaning pipeline | Wrote 12 tests specifically because I don't trust myself. Correctly. |
 | Docker | "Works on my machine." Exactly the problem. |
 
-*⭐️ If any of the projects above are useful, or you just liked the jokes about Germany, a star helps more than you'd think.*
+*⭐ If you find a project useful, feel free to leave a star or open an issue.*
 
 </details>
