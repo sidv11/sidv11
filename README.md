@@ -12,7 +12,7 @@ I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to s
 
 | Project | What it does | Stack |
 |---|---|---|
-| **RetainIQ** | GenAI-powered employee retention prediction system — LightGBM + SMOTE for the model, Ollama/Llama 3.2 for the GenAI layer, deployed as a full Streamlit dashboard | Python, LightGBM, Ollama, Streamlit |
+| **[RetainIQ](https://github.com/sidv11/genai-employee-retention-prediction)** | GenAI-powered employee retention prediction system — LightGBM + SMOTE for the model, Ollama/Llama 3.2 for the GenAI layer, deployed as a full Streamlit dashboard | Python, LightGBM, Ollama, Streamlit |
 | **[Retail Dashboard](https://github.com/sidv11/retail-dashboard)** — [🌐 Live Demo](https://retail-dashboard-st6dkri2ezpvbjqgvjly4x.streamlit.app/) | Interactive 3-page Streamlit dashboard over 540K+ real retail transactions — revenue trends, cancellation patterns, country-level breakdowns, all filterable | Python, Streamlit, pandas |
 | **[SQL for Analysts](https://github.com/sidv11/sql-for-analysts)** | A normalized SQLite schema with 20 verified queries — joins, subqueries, CTEs, window functions | SQL, SQLite |
 | **Data Cleaning Case Study** | Reusable, unit-tested cleaning functions for messy real-world exports (mixed units, formats, categories) — backed by a 12-test suite | Python, pandas, pytest |
