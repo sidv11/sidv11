@@ -1,238 +1,110 @@
-<h1 align="center">Hi 👋, I'm Siddhant</h1>
-<h3 align="center">A human who occasionally produces working code, mostly by accident</h3>
+# Hi, I'm Siddhant 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=940&lines=Data+Science+%26+AI+Student;Professional+Stack+Overflow+Copy-Paster;LightGBM+Whisperer;git+commit+-m+%22final+fix%22+(again);Currently+debugging+something+that+worked+5+minutes+ago" alt="Typing SVG" />
-</p>
+**Data Scientist · ML Engineer · GenAI Developer**, based in Pune, India — transitioning from web development into data science and AI, currently studying at the Boston Institute of Analytics.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidv11&label=Profile%20Views&color=39ff14&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bugs%20Fixed-1-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/New%20Bugs%20Created-47-critical?style=for-the-badge" />
-</p>
+I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to something actually deployed and usable — not just notebooks that stop at `.fit()`.
+
+📍 Pune, India · 🌐 [siddhant.live](https://www.siddhant.live) · 💼 [LinkedIn](https://www.linkedin.com/in/siddhant-varma-54b562234/) · 📫 siddhant.varma1108@gmail.com
 
 ---
 
-### 📡 SIGNAL DETECTED — INITIALIZING PROFILE.exe
+## 🚀 Featured Projects
 
-```
-> whoami
-Data Science & Generative AI enthusiast, based in India
-Currently teaching machines to predict things I can't predict about my own life
-
-> cat about_me.txt
-- 🧠 Building ML pipelines that are 90% preprocessing, 10% crying
-- 🎨 Also do frontend, because apparently one existential crisis wasn't enough
-- 🤖 Talk to LLMs more than I talk to actual humans
-- 📊 My résumé has more feature importance bar charts than actual features
-```
-
----
-
-## 🛠️ Tech Stack (a.k.a. My Trust Issues, Ranked)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel_Screenshots_as_Data_Viz-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats (Self-Reported, Unaudited, Deeply Biased)
-
-> *Note: The official stats widget refused to load, so I'm reporting these numbers myself. No further questions.*
-
-| Metric | Value | Source |
+| Project | What it does | Stack |
 |---|---|---|
-| Lines of code written | 47,000+ | Me |
-| Lines of code actually needed | 12 | An auditor who will never exist |
-| Commits titled "fix" | 212 | git log |
-| Commits titled "actual fix" | 89 | git log |
-| Commits titled "actual fix for real this time" | 34 | git log, still lying |
-| Commits titled "please work" | 1 | 3:47 AM, deadline day |
-| Times I Googled something I already knew | Daily | My browser history, subpoenaed |
-| Times `git push --force` was "probably fine" | Every time | It was never fine |
-| ML models that achieved 99% accuracy | 1 | Turned out the target leaked into the features |
-| Contribution graph color | Green | Because red would be too honest |
+| **RetainIQ** | GenAI-powered employee retention prediction system — LightGBM + SMOTE for the model, Ollama/Llama 3.2 for the GenAI layer, deployed as a full Streamlit dashboard | Python, LightGBM, Ollama, Streamlit |
+| **[Retail Dashboard](https://github.com/sidv11/retail-dashboard)** — [🌐 Live Demo](https://retail-dashboard-st6dkri2ezpvbjqgvjly4x.streamlit.app/) | Interactive 3-page Streamlit dashboard over 540K+ real retail transactions — revenue trends, cancellation patterns, country-level breakdowns, all filterable | Python, Streamlit, pandas |
+| **[SQL for Analysts](https://github.com/sidv11/sql-for-analysts)** | A normalized SQLite schema with 20 verified queries — joins, subqueries, CTEs, window functions | SQL, SQLite |
+| **Data Cleaning Case Study** | Reusable, unit-tested cleaning functions for messy real-world exports (mixed units, formats, categories) — backed by a 12-test suite | Python, pandas, pytest |
+| **Fraud Detection** | End-to-end fraud detection pipeline, from raw transaction data to a working classifier | Python, Scikit-learn |
+| **EDA Deep Dive — Online Retail II** | Full exploratory analysis on 540K+ real transactions; surfaced concrete business findings (e.g. a 3x cancellation-rate gap between markets) | Python, pandas, seaborn |
+| **Salary Range Prediction** | Client project (Spinnaker Analytics) — regression pipeline predicting salary bands from NYC Jobs posting data | Python, Scikit-learn |
+| **Credit Score Classification** | Client project (Spinnaker Analytics) — classification pipeline for credit risk scoring | Python, Scikit-learn |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rate%20Limit%20Excuses%20Given-9000%2B-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel%20Free%20Tier-Personally%20Offended-blueviolet?style=for-the-badge" />
-</p>
+*(Replace any remaining plain-text project names above with their repo links once pushed — table format keeps this scannable in the ~15 seconds a recruiter actually spends here.)*
 
 ---
 
-## 🎭 Corporate Buzzwords I Accidentally Made Real
+## 🛠️ Tech Stack
 
-| Project | LinkedIn Description | Honest Description |
-|---|---|---|
-| **RetainIQ** | AI-driven workforce retention ecosystem | Makes educated guesses about who rage-quits first. |
-| **Telecom Churn** | Predictive customer analytics platform | Predicts breakups... but for SIM cards. |
-| **Twitter Sentiment** | State-of-the-art NLP solution | A robot that judges tweets for a living. |
-| **GenAI BI** *(WIP)* | Conversational business intelligence platform | ChatGPT wearing a business suit and carrying Excel sheets. |
----
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=leaflet&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity (Looks Busier Than My Sleep Schedule)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidv11&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidv11&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidv11&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🐛 A Brief, Honest History of My Debugging Process
-
-```mermaid
-graph LR
-A[Code doesn't work] --> B[Add print statements everywhere]
-B --> C[Still doesn't work]
-C --> D[Blame the dataset]
-D --> E[Blame the framework]
-E --> F[Ask an LLM]
-F --> G[LLM hallucinates a fix]
-G --> H[It works?!]
-H --> I[Never touch that file again]
-```
+![Profile views](https://komarev.com/ghpvc/?username=sidv11&label=Profile%20Views&color=39ff14&style=for-the-badge)
 
 ---
 
-## 🎯 Current Objectives
+## 🎯 Currently Learning / Building Toward
 
-- [x] Learn LightGBM
-- [x] Learn SMOTE
-- [x] Build something that looks like it costs $2M
-- [ ] Understand why it costs $2M
-- [ ] Get a job before my coffee tolerance becomes a superpower
-- [ ] Convince recruiters that "it works on my machine" counts as a deployment strategy
+- Retrieval-Augmented Generation (RAG) — from-scratch and with LangChain
+- AI agents using the ReAct pattern
+- Production-facing ML: deployment, evaluation, and monitoring, not just model training
+- Currently 5 days into a 30-day structured GitHub build sprint across DA, ML, NLP, and GenAI
 
 ---
 
-## 📊 My Actual Feature Importance Chart (for job hunting)
+## 🐍 Contribution Activity
 
-```
-Panic-driven productivity      ████████████████████ 38%
-Copy-pasting Stack Overflow    ███████████████ 29%
-Actually understanding ML      ██████ 12%
-Pure blind luck                ████████████ 21%
-```
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/sidv11/sidv11/output/github-contribution-grid-snake-dark.svg)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidv11&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 💔 My Relationship With Technology
+## 🤝 Let's Connect
 
-| Technology | Current Status |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-varma-54b562234/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhant.varma1108@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.siddhant.live)
+
+---
+
+<details>
+<summary>😄 Just for fun (click to expand — the serious stuff is all above this line)</summary>
+
+<br>
+
+### 🏆 Commit Message Hall of Fame
+
+| Commit | What actually happened |
 |---|---|
-| Python | It's complicated |
-| JavaScript | Mutual toxicity |
-| CSS | We don't talk anymore |
-| React | Friends with benefits |
-| Pandas | My emotional support library |
-| SQL | SELECT * FROM happiness; -- returned 0 rows |
-| Git | Constant trust issues |
-| Docker | "Works on my machine." Exactly. |
-| LightGBM | My favorite child |
-| TensorFlow | We broke up after dependency conflicts |
----
+| `Add SMOTE balancing + LightGBM baseline` | Stopped my model from confidently predicting "nobody ever quits" |
+| `Fix: 'Toy' and 'Toys' are, in fact, the same toy` | 3 hours, 1 synonym dictionary, 12 tests, and my own code personally offending me |
+| `Add live demo link to README` | The one commit that took longer to write than the actual deploy |
 
+### 📊 Real Findings From My Projects That Sound Made Up (they're not)
 
+- Germany cancels orders at **3x** the UK's rate. My working hypothesis: they simply have higher standards for novelty erasers.
+- The retail dataset processes **zero orders every single Saturday.** Either the shop is closed, or every customer independently agreed weekends are sacred.
+- International customers spend **70% more per order** than UK customers — in the UK's own home market. The UK, humbled by its own dataset.
 
-## 🪦 Wall of Shame (Deceased Projects, Rest In Peace)
+### 🧠 Things My Own Code Had to Teach Me the Hard Way
 
-| Project | Cause of Death | Time of Death |
-|---|---|---|
-| `todo-app-v1` | Realized everyone builds this, abandoned in shame | Day 2 |
-| `crypto-price-predictor` | Discovered the market is just vibes | Day 1 |
-| `my-own-chatgpt-clone` | Remembered OpenAI has more GPUs than my entire state | Hour 6 |
-| `perfect-resume.docx` | Died the moment ATS software touched it | On upload |
-| `weekend-project-idea-47` | Never had a chance. We hardly knew ye | Conception |
----
+- A window function doesn't group rows — it just lets each row peek at its neighbors. Took 3 rewrites before I actually believed this.
+- `RANK()` and `DENSE_RANK()` disagree about ties like siblings splitting an inheritance.
+- "Eyeball the notebook output" is not a testing strategy. Learned this when `"Toy"` quietly refused to become `"Toys"` for an entire afternoon.
 
+### 💔 My Relationship With Technology
 
+| Technology | Status |
+|---|---|
+| SQL window functions | We were enemies. Now we're uneasy allies. |
+| Git | Constant, mutual trust issues. |
+| My own cleaning pipeline | Wrote 12 tests specifically because I don't trust myself. Correctly. |
+| Docker | "Works on my machine." Exactly the problem. |
 
-## 🧠 Therapist's Notes (Confidential, Leaked)
+*⭐️ If any of the projects above are useful, or you just liked the jokes about Germany, a star helps more than you'd think.*
 
-> *"Patient describes recurring dream where a recruiter asks 'so walk me through your project' and patient forgets their own project exists. Patient reports this is the third time this week. Recommend patient stop refreshing LinkedIn every 4 minutes. Patient has not taken this advice. Session ended after patient asked if I could 'just review this one resume real quick.'"*
-
-
----
-
-## 🤖 A Note From The LLM I Use Daily
-
-> *"He said 'explain like I'm five' and then followed up with a question about eigenvalues. He calls debugging 'a conversation between friends.' I am the friend. I did not consent to this friendship. Please send help, or at least better prompts."*
-> — Llama 3.2, probably, if it could file complaints
-
----
-
-
-
-## ⚰️ Things That Have Died For This Portfolio
-
-- My sleep schedule
-- 3 Chrome tabs' worth of RAM, permanently
-- The concept of a "weekend"
-- My belief that `requirements.txt` would ever just work on the first try
-- Any remaining trust in Stack Overflow answers from 2013
----
-
-## ☠️ More Live Despair, Freshly Fetched From The Void
-
-*(Also real APIs, also regenerate on every load. Yes, I chose to expose myself to this. No, I don't recommend it.)*
-
-**A programmer joke, pulled live, so we can suffer together:**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fofficial-joke-api.appspot.com%2Fjokes%2Fprogramming%2Frandom&label=Today's%20Coping%20Mechanism&query=$[0].punchline&color=black&style=for-the-badge" alt="programming joke" />
-</p>
-
-**Life advice, fetched fresh, that I will absolutely not follow:**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.adviceslip.com%2Fadvice&label=Career%20Guidance%20I'm%20Ignoring&query=$.slip.advice&color=8B0000&style=for-the-badge" alt="unsolicited advice" />
-</p>
-
-**What I should probably be doing instead of debugging right now (fetched live, disregarded instantly):**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.boredapi.com%2Fapi%2Factivity&label=Alternative%20Life%20Path&query=$.activity&color=4B0082&style=for-the-badge" alt="bored api suggestion" />
-</p>
-
-**HTTP status code that best represents my job search, visualized as a cat, because dignity left the chat months ago:**
-
-<p align="center">
-  <img src="https://http.cat/404" width="300" alt="404 not found - much like my callbacks" />
-</p>
-
-> ⚠️ *Every badge above is a live API call. Refresh this page and the universe will generate a brand new way to remind me nothing is under control. It's like astrology, but for people who know what a null pointer is.*
-
----
-
-
-## 🤝 Let's Connect (a.k.a. Feed My Notification Addiction)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddhant-varma-54b562234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddhant.varma1108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.siddhant.live"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Currently%20training%20a%20model%20AND%20my%20patience-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <i>⭐️ If you found this README funnier than my actual code, drop a star. My ego needs the SMOTE-style oversampling.</i>
-</p>
+</details>
