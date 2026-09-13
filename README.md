@@ -18,8 +18,8 @@ I build end-to-end ML/GenAI systems: from messy raw data, through modeling, to s
 | **[Data Cleaning Case Study](https://github.com/sidv11/data-cleaning-case-study)** | Reusable, unit-tested cleaning functions for messy real-world exports (mixed units, formats, categories) — backed by a 12-test suite | Python, pandas, pytest |
 | **[Fraud Detection](https://github.com/sidv11/insurance-fraud-detection)** | End-to-end fraud detection pipeline, from raw transaction data to a working classifier | Python, Scikit-learn |
 | **[EDA Deep Dive — Online Retail II](https://github.com/sidv11/eda-deep-dive-online-retail)** | Full exploratory analysis on 540K+ real transactions; surfaced concrete business findings (e.g. a 3x cancellation-rate gap between markets) | Python, pandas, seaborn |
-| **Salary Range Prediction** | Client project (Spinnaker Analytics) — regression pipeline predicting salary bands from NYC Jobs posting data | Python, Scikit-learn |
-| **Credit Score Classification** | Client project (Spinnaker Analytics) — classification pipeline for credit risk scoring | Python, Scikit-learn |
+| **Salary Range Prediction** | OJT project completed through Spinnaker Analytics — regression pipeline predicting salary bands from NYC Jobs posting data | Python, Scikit-learn |
+| **Credit Score Classification** | OJT project completed through Spinnaker Analytics — classification pipeline for credit risk scoring | Python, Scikit-learn |
 
 *(Replace any remaining plain-text project names above with their repo links once pushed — table format keeps this scannable in the ~15 seconds a recruiter actually spends here.)*
 
